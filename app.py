@@ -20,7 +20,7 @@ def compare(med_name):
   
 # defining columns needed 
 col1,col2=st.columns(2)
-col1.image('e_Pharmacy.png',width=200)
+col1.image('e_pharmacy.png',width=200)
 col2.header("E_Pharmacy Price Comparison System")
 
 # sidebar creating
